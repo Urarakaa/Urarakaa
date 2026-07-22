@@ -1,2 +1,1 @@
-![Uraraka Banner](banner.png)
 
