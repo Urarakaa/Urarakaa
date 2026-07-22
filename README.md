@@ -21,3 +21,4 @@
 ### 📊 GitHub Stats
 ![Urarakaa's GitHub Stats](https://vercel.app)
 ![Top Langs](https://vercel.app)
+![Uraraka Banner](banner.png)
